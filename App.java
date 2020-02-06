@@ -1,14 +1,14 @@
-package com.epam.saisnigdha_maven_OOPS;
-import com.epam.saisnigdha_maven_OOPS.chocolates.Chocolate;
-import com.epam.saisnigdha_maven_OOPS.chocolates.Cadbury;
-import com.epam.saisnigdha_maven_OOPS.chocolates.Barone;
-import com.epam.saisnigdha_maven_OOPS.chocolates.Galaxy;
-import com.epam.saisnigdha_maven_OOPS.gift.Gift;
-import com.epam.saisnigdha_maven_OOPS.sweets.Sweets;
-import com.epam.saisnigdha_maven_OOPS.sweets.Gulabjamun;
-import com.epam.saisnigdha_maven_OOPS.sweets.Kheer;
-import com.epam.saisnigdha_maven_OOPS.sweets.Kajukatli;
-import com.epam.saisnigdha_maven_OOPS.sweets.Rasgulla;
+package com.epam.nithin_maven_OOPS;
+import com.epam.nithin_maven_OOPS.chocolates.Chocolate;
+import com.epam.nithin_maven_OOPS.chocolates.Cadbury;
+import com.epam.nithin_maven_OOPS.chocolates.Barone;
+import com.epam.nithin_maven_OOPS.chocolates.Galaxy;
+import com.epam.nithin_maven_OOPS.gift.Gift;
+import com.epam.nithin_maven_OOPS.sweets.Sweets;
+import com.epam.nithin_maven_OOPS.sweets.Gulabjamun;
+import com.epam.nithin_maven_OOPS.sweets.Kheer;
+import com.epam.nithin_maven_OOPS.sweets.Kajukatli;
+import com.epam.nithin_maven_OOPS.sweets.Rasgulla;
 
 import java.util.ArrayList;
 import java.util.Scanner;
